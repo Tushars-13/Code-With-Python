@@ -59,3 +59,7 @@ for i in range(e):
 # Lower part of the diamond
 for i in range(e - 2, -1, -1):
     print(" " * (e - i - 1) + "*" * (2 * i + 1))
+
+print()
+print("------------------------------------------------------")
+print()

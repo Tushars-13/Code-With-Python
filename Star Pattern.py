@@ -3,7 +3,7 @@ print("------------------------------------------------------")
 print()
 
 print("Square star pattern")
-a = 5
+a = 6
 for i in range(a):
     for j in range(a):
         print("*", end=" ")
